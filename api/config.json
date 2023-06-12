@@ -1,0 +1,52 @@
+{
+    "contract": {
+        "address": "0x42F7d69e5CE97990b8cD77973c176Bc2eC574FBE",
+        "admin": "0x322bF6A3FFF7c7112F0B7Ed3ee6bb3ac3720e819"
+    },
+    "blockchain": {
+        "host": "http://localhost",
+        "port": "7545"
+    },
+    "users": [
+        {
+            "address": "0x322bF6A3FFF7c7112F0B7Ed3ee6bb3ac3720e819",
+            "password": "84b780985e0096523edcf0b9e7a067a37ec25e054f70f758c7ddd692b2223be2"
+        },
+        {
+            "address": "0x7DcAB0AEc7841a4aca1A5DF84801DD0f8870eA77",
+            "password": "9addca56626ae73a61f2efe5ec7801af39b11f8ad2a077546904ba50a2a49366"
+        },
+        {
+            "address": "0x3A3725D8B8f37FBEe3D119AEcC85aAFfb94Ea936",
+            "password": "447d30eb2ba9fab60ca19727616a24e3ea09bb0b8ae1a830dc7305034559a80d"
+        },
+        {
+            "address": "0xD54Ba091e8Da2413722131702Fb30DAEA023AAb6",
+            "password": "a071db79de95d8cd37232fd70f48f504689270f62110cddcac771a81e6cd33b8"
+        },
+        {
+            "address": "0x6F8Ee84ce5e87954CA3a30857c90e7fE5F35FaCF",
+            "password": "f2f1a01dd21461fa1306721a5515d4da1117fd30d7a675315e9f7d532f513edc"
+        },
+        {
+            "address": "0x1D5E476eafFcF95826A8935590Cb53F4Cd5D9f8C",
+            "password": "971f48814e8faa30ecebe1c89a66c73188efc3fe9dfa5ee2f73638560c8556f7"
+        },
+        {
+            "address": "0x2314348B013558C38Fc52FA2649f812a50314dBa",
+            "password": "b77ea220a0d30a482f0021756251301ec3d80a4f7a5261987771828a1b92c556"
+        },
+        {
+            "address": "0x33fe4E2C585d2e5692fF270A9fdaA38314CF8892",
+            "password": "dcba60a6c1adc407e83adcb09c9d8876fae54adb5bf905223a14745e26169c23"
+        },
+        {
+            "address": "0xa07996bD1bC5eFf53C708f7d3026c9D411989eE4",
+            "password": "eef7d03af247842557240811cf7c980f30160e8e8b56bf0f985402a8aba55797"
+        },
+        {
+            "address": "0x1f1d5567C41A17Ff89D87B48a642E0E3295b84C4",
+            "password": "962200fa68f0bd8813d3c7987c60b78a710401884c9645574c9aa462b68b89e8"
+        }
+    ]
+}
